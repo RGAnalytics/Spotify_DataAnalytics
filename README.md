@@ -2,6 +2,7 @@
 This project automates the retrieval of metadata for a list of Spotify track URLs using the Spotify Web API and stores the data in a MySQL database. It enables structured analysis of tracks based on key features such as popularity, artist, duration, and album.
 
 📌 Features
+
 🔐 Authenticates with Spotify using client credentials
 
 🎵 Extracts detailed metadata (track name, artist, album, duration, popularity)
